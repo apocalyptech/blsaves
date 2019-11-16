@@ -50,8 +50,8 @@ enable that bit.  It's a bit hokey.
 
 The raw save indexes can be found in here as well: [save_index_bl2.txt](generation/save_index_bl2.txt) and
 [save_index_tps.txt](generation/save_index_tps.txt).  Note that I do also
-tweak those manually, slightly - I remove the initial instance of `None`
-for the last-seen transporter in the BL2 file, and for TPS I convert the
+tweak those manually, slightly - For BL2, I convert the initial `None`
+value for the last-seen transporter to `GlacialIgloo`.  For TPS I convert the
 `None` values on the first few saves to `MoonShotIntroToAirstrip`.
 
 Once that's done, I've got processed save files ready for distribution, and
