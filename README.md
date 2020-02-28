@@ -1,14 +1,15 @@
-BL2/TPS Savegames For Mod Testing
-=================================
+BL2/TPS/BL3 Savegames For Mod Testing
+=====================================
 
 Now that Borderlands 3 is out and practically everyone's moved on from
 modding BL2/TPS, I figure it's a great time to release an archive of
 savegames which might've been useful to modders a year or two ago.  This
-is it!
+is it!  I've since added a BL3 collection as well, so this has become
+semi-relevant again.
 
 This is a collection of savegames which step through all quests, including
-all DLCs, of Borderlands 2 and Borderlands: The Pre-Sequel.  I'd started
-archiving these when I was putting together my
+all DLCs, of Borderlands 2, Borderlands: The Pre-Sequel, and Borderlands 3.
+I'd started archiving these when I was putting together my
 [BL2 Mega TimeSaver XL](https://github.com/BLCM/BLCMods/tree/master/Borderlands%202%20mods/Apocalyptech/BL2%20Mega%20TimeSaver%20XL) and
 [TPS Mega TimeSaver XL](https://github.com/BLCM/BLCMods/tree/master/Pre%20Sequel%20Mods/Apocalyptech/TPS%20Mega%20TimeSaver%20XL) mods,
 because I needed an easy way to hop backwards in time pretty trivially
@@ -24,12 +25,13 @@ save editor to duplicate mission state from NVHM into both TVHM and UVHM,
 so all of these saves are at the exact same spot in the game in PT1, PT2,
 and PT3.  Note that the level of any active mission, when loading into TVHM
 or UVHM, would still be set to their value in Normal, but any new mission you
-pick up from there should be scaled properly.
+pick up from there should be scaled properly.  Obviously for Borderlands 3,
+the mission state is only duplicated to TVHM.
 
 The canonical URL for the web frontend of this is: http://apocalyptech.com/games/bl-saves
 
-Generation
-----------
+Generation for BL2/TPS
+----------------------
 
 The process for generating the archive is a *bit* hokey.  Obviously just
 collecting the raw savegames is easy enough by copying 'em out of the
@@ -62,3 +64,11 @@ to turn that "raw" text file into a prettier HTML table which I can then
 embed on the web easily.
 
 So yeah, that's it!
+
+Generation for BL3
+------------------
+
+Generation for BL3 is actually done a bit more simply than in BL2/TPS,
+though the code which uses it isn't actually public yet.  Will post
+details here once it's been released!
+
