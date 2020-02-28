@@ -8,7 +8,9 @@ $page->apoc_header();
 ?>
 
 <p>
-<a href="index.php">Borderlands 2 version can be found here.</a>
+Other versions:
+<a href="index.php">Borderlands 2</a>,
+<a href="bl3.php">Borderlands 3</a>.
 </p>
 
 <p>

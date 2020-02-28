@@ -8,7 +8,9 @@ $page->apoc_header();
 ?>
 
 <p>
-<a href="tps.php">Borderlands: The Pre-Sequel version can be found here.</a>
+Other versions:
+<a href="tps.php">Borderlands: The Pre-Sequel</a>,
+<a href="bl3.php">Borderlands 3</a>.
 </p>
 
 <p>
