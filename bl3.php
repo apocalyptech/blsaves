@@ -4,6 +4,7 @@ include('savefunc.php');
 $page->set_title('Borderlands 3 Savegames (for mod testing)');
 $page->add_css('blsaves.css');
 $page->add_changelog('February 27, 2020', 'Initial post');
+$page->add_changelog('April 3, 2020', 'Updated with DLC2 saves (Guns, Love, and Tentacles)');
 $page->apoc_header();
 ?>
 
@@ -27,12 +28,13 @@ These saves were all run through in Normal mode, with Amara.  No skill
 points were allocated during the run.  These saves were generated before
 Gearbox's Guardian Rank tweaks, so Guardian Rank will likely be disabled
 on the saves, when you load them.  Amara will have a Crader's EM-P5 for
-a weapon, and Transformer as shield.  The saves were edited so that Amara
-is at level 53, and the EM-P5 and Transformer will also be level 53.  Max
-level ammo and backpack SDUs have been added in as well.  TVHM has been
-unlocked for all saves, and the TVHM gamestate should be identical to
-Normal, so you should be able to choose whichever one you want and be at
-the same place in the game.
+a weapon, and Transformer as shield.  Through DLC1, the saves were edited
+so that Amara is at level 53, and the EM-P5 and Transformer will also be
+level 53.  Max level ammo and backpack SDUs have been added in as well.
+TVHM has been unlocked for all saves, and the TVHM gamestate should be
+identical to Normal, so you should be able to choose whichever one you
+want and be at the same place in the game.  All DLC2 saves are at level
+57, though thei EM-P5 and Transformer are still level 53.
 </p>
 
 <p>
