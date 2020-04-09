@@ -16,7 +16,7 @@ Other versions:
 
 <p>
 This is a collection of savegames which step through all quests, including
-all DLCs, of Borderlands 3 (up through DLC1, Moxxi's Heist).  Given the
+all DLCs, of Borderlands 3 (up through DLC2: Guns, Love, and Tentacles).  Given the
 nature of the saves, they're mostly just useful for someone working on
 BL3 modding, which is still in a pretty difficult state.  At the moment,
 <a href="https://github.com/apocalyptech/bl3hotfixmodding">network-injection based hotfix modding</a> is basically the only way to do modding like
@@ -34,7 +34,7 @@ level 53.  Max level ammo and backpack SDUs have been added in as well.
 TVHM has been unlocked for all saves, and the TVHM gamestate should be
 identical to Normal, so you should be able to choose whichever one you
 want and be at the same place in the game.  All DLC2 saves are at level
-57, though thei EM-P5 and Transformer are still level 53.
+57, though the EM-P5 and Transformer are still level 53.
 </p>
 
 <p>
