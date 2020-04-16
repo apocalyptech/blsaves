@@ -69,6 +69,13 @@ Generation for BL3
 ------------------
 
 Generation for BL3 is actually done a bit more simply than in BL2/TPS,
-though the code which uses it isn't actually public yet.  Will post
-details here once it's been released!
+via a custom command in my [BL3 CLI SaveEdit](https://github.com/apocalyptech/bl3-cli-saveedit/)
+app.  There's a utility in there named `bl3-process-archive-saves` which
+does basically everything all at once: massaging the savegame data into
+exactly the right state, and outputting the HTML necessary to add to the
+table on the public website.  You can use `-f`/`--filename` to have it
+operate on a single file, or `-d`/`--directory` to have it process a whole
+directory of saves.  `-o`/`--output` controls the directory where it'll
+store the updated savegames, and to generate the HTML file, you'd use
+`-i`/`--info`.
 
