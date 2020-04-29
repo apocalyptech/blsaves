@@ -5,6 +5,7 @@ $page->set_title('Borderlands 3 Savegames (for mod testing)');
 $page->add_css('blsaves.css');
 $page->add_changelog('February 27, 2020', 'Initial post');
 $page->add_changelog('April 3, 2020', 'Updated with DLC2 saves (Guns, Love, and Tentacles)');
+$page->add_changelog('April 28, 2020', 'Added Revenge of the Cartels saves');
 $page->apoc_header();
 ?>
 
@@ -34,7 +35,9 @@ level 53.  Max level ammo and backpack SDUs have been added in as well.
 TVHM has been unlocked for all saves, and the TVHM gamestate should be
 identical to Normal, so you should be able to choose whichever one you
 want and be at the same place in the game.  All DLC2 saves are at level
-57, though the EM-P5 and Transformer are still level 53.
+57, though the EM-P5 and Transformer are still level 53.  Starting with
+the Revenge of the Cartels saves, all gear is level 57, and the EM-P5 has
+the Mayhem 10 part.
 </p>
 
 <p>
@@ -58,13 +61,21 @@ I was making use of the following mods during the run:
     (unless it happens to be around Halloween again, and GBX does re-activate
     the event as they implied they would), otherwise you'll just get
     kicked out to Sanctuary without any quest active.</li>
+<li>The handful of saves during Revenge of the Cartels will require my
+    <a href="https://github.com/apocalyptech/bl3hotfixmodding/blob/master/injectdata/cartels_enable.txt">Cartels Enable</a> mod,
+    to use them while the event isn't active.</li>
 </ul>
 
 <p>
 In terms of any other gear, I would occasionally pick up a grenade mod,
 artifact, or COM which seemed reasonable to pick up, but I largely ignored
 gear.  The char should be OP enough in Normal so that just the gun+shield
-is plenty, even without the mods above.
+is plenty, even without the mods above.  Given the
+<a href="https://github.com/apocalyptech/bl3-cli-saveedit">proliferation</a>
+<a href="https://github.com/sandsmark/borderlands3-save-editor">of</a>
+<a href="http://www.bl3editor.com/">BL3</a>
+<a href="https://github.com/cfi2017/bl3-save">save editors</a>, you should
+be able to gear them up however you like without too much trouble.
 </p>
 
 <p>
