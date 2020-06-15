@@ -6,6 +6,7 @@ $page->add_css('blsaves.css');
 $page->add_changelog('February 27, 2020', 'Initial post');
 $page->add_changelog('April 3, 2020', 'Updated with DLC2 saves (Guns, Love, and Tentacles)');
 $page->add_changelog('April 28, 2020', 'Added Revenge of the Cartels saves');
+$page->add_changelog('June 14, 2020', 'Added Guardian Takedown saves');
 $page->apoc_header();
 ?>
 
