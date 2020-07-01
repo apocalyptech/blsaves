@@ -28,19 +28,29 @@ we're used to in BL2/TPS.
 
 <p>
 These saves were all run through in Normal mode, with Amara.  No skill
-points were allocated during the run.  These saves were generated before
-Gearbox's Guardian Rank tweaks, so Guardian Rank will likely be disabled
-on the saves, when you load them.  Amara will have a Crader's EM-P5 for
-a weapon, and Transformer as shield.  Through DLC1, the saves were edited
-so that Amara is at level 53, and the EM-P5 and Transformer will also be
-level 53.  Max level ammo and backpack SDUs have been added in as well.
-TVHM has been unlocked for all saves, and the TVHM gamestate should be
-identical to Normal, so you should be able to choose whichever one you
-want and be at the same place in the game.  All DLC2 saves are at level
-57, though the EM-P5 and Transformer are still level 53.  Starting with
-the Revenge of the Cartels saves, all gear is level 57, and the EM-P5 has
-the Mayhem 10 part.
+points were allocated during the run.  The saves will have Guardian Rank
+disabled, when loaded in.  Amara will have a Crader's EM-P5 for a weapon,
+and Transformer as shield.  Max level ammo and backpack SDUs have been
+added in as well, though the max SDU count for a few have risen over time,
+so the earlier saves are no longer necessarily maxed.  TVHM has been
+unlocked for all saves, and the TVHM gamestate should be identical to
+Normal, so you should be able to choose whichever one you want and be at
+the same place in the game.
 </p>
+
+<p>
+In terms of levelling:
+</p>
+
+<ul>
+<li>Through DLC1, the saves were edited so that Amara is at level 53,
+    and the EM-P5 and Transformer are also be level 53.</li>
+<li>Through DLC2, the saves are at level 57, though the EM-P5 and
+    Transformer are still level 53.</li>
+<li>Through the Revenge of the Cartels, all gear is level 57, and
+    the EM-P5 has the Mayhem 10 part.</li>
+<li>Through DLC3, Amara and her gear is at level 60.</li>
+</ul>
 
 <p>
 I was making use of the following mods during the run:
