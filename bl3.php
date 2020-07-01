@@ -49,7 +49,7 @@ In terms of levelling:
     Transformer are still level 53.</li>
 <li>Through the Revenge of the Cartels, all gear is level 57, and
     the EM-P5 has the Mayhem 10 part.</li>
-<li>Through DLC3, Amara and her gear is at level 60.</li>
+<li>Through DLC3, Amara and her gear are at level 60.</li>
 </ul>
 
 <p>
