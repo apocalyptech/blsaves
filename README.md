@@ -28,7 +28,7 @@ or UVHM, would still be set to their value in Normal, but any new mission you
 pick up from there should be scaled properly.  Obviously for Borderlands 3,
 the mission state is only duplicated to TVHM.
 
-The canonical URL for the web frontend of this is: http://apocalyptech.com/games/bl-saves
+The canonical URL for the web frontend of this is: https://apocalyptech.com/games/bl-saves
 
 Generation for BL2/TPS
 ----------------------
