@@ -8,6 +8,10 @@ $page->add_changelog('April 3, 2020', 'Updated with DLC2 saves (Guns, Love, and 
 $page->add_changelog('April 28, 2020', 'Added Revenge of the Cartels saves');
 $page->add_changelog('June 14, 2020', 'Added Guardian Takedown saves');
 $page->add_changelog('July 1, 2020', 'Added DLC3 (Bounty of Blood) saves');
+$page->add_changelog('October 3, 2020', array(
+    'Added DLC4 (Psycho Krieg) saves',
+    'Fixed links to my mods',
+));
 $page->apoc_header();
 ?>
 
@@ -50,6 +54,7 @@ In terms of levelling:
 <li>Through the Revenge of the Cartels, all gear is level 57, and
     the EM-P5 has the Mayhem 10 part.</li>
 <li>Through DLC3, Amara and her gear are at level 60.</li>
+<li>Through DLC4, Amara and her gear are at level 65.</li>
 </ul>
 
 <p>
@@ -57,24 +62,24 @@ I was making use of the following mods during the run:
 </p>
 
 <ul class="spaced-ul">
-<li><a href="https://github.com/apocalyptech/bl3hotfixmodding/blob/master/injectdata/craders_emp5_super_buff.txt">Crader's EM-P5 Super Buff</a> -
+<li><a href="https://github.com/BLCM/bl3mods/wiki/Super%20Buff%3A%20Crader%27s%20EM-P5">Crader's EM-P5 Super Buff</a> -
     Vastly buffs the damage, doesn't consume ammo, perfect accuracy and
     handling, and improves its already-good firerate.  When testing mods I
     like to be able to trivially destroy enemies, so this does the trick.</li>
-<li><a href="https://github.com/apocalyptech/bl3hotfixmodding/blob/master/injectdata/transformer_super_buff.txt">Transformer Super Buff</a> -
+<li><a href="https://github.com/BLCM/bl3mods/wiki/Super%20Buff%3A%20Transformer">Transformer Super Buff</a> -
     Likewise, this vastly buffs the capacity and recharge rate of the
     Transformer, and gives it a 0 recharge delay.  Again, when I'm testing
     mods I like to be basically invulnerable.</li>
-<li><a href="https://github.com/apocalyptech/bl3hotfixmodding/blob/master/injectdata/early_bloomer.txt">Early Bloomer</a> -
+<li><a href="https://github.com/BLCM/bl3mods/wiki/Early%20Bloomer">Early Bloomer</a> -
     Possibly required on the earlier savegames to use the gear I've got
     equipped, though possibly you wouldn't actually need it.</li>
 <li>The handful of saves during Bloody Harvest will require my
-    <a href="https://github.com/apocalyptech/bl3hotfixmodding/blob/master/injectdata/bloody_harvest_enable.txt">Bloody Harvest Enable</a> mod
+    <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Bloody%20Harvest">Bloody Harvest Enable</a> mod
     (unless it happens to be around Halloween again, and GBX does re-activate
     the event as they implied they would), otherwise you'll just get
     kicked out to Sanctuary without any quest active.</li>
 <li>The handful of saves during Revenge of the Cartels will require my
-    <a href="https://github.com/apocalyptech/bl3hotfixmodding/blob/master/injectdata/cartels_enable.txt">Cartels Enable</a> mod,
+    <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Revenge%20of%20the%20Cartels">Cartels Enable</a> mod,
     to use them while the event isn't active.</li>
 </ul>
 
