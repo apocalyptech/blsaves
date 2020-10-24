@@ -12,6 +12,7 @@ $page->add_changelog('October 3, 2020', array(
     'Added DLC4 (Psycho Krieg) saves',
     'Fixed links to my mods',
 ));
+$page->add_changelog('October 24, 2020', 'Fixed a few broken links and reworded a few sections');
 $page->apoc_header();
 ?>
 
@@ -23,7 +24,7 @@ Other versions:
 
 <p>
 This is a collection of savegames which step through all quests, including
-all DLCs, of Borderlands 3 (up through DLC2: Guns, Love, and Tentacles).  Given the
+all DLCs, of Borderlands 3 (up through DLC4: Psycho Krieg and the Fantastic Fustercluck).  Given the
 nature of the saves, they're mostly just useful for someone working on
 BL3 modding, which is still in a pretty difficult state.  At the moment,
 <a href="https://github.com/apocalyptech/bl3hotfixmodding">network-injection based hotfix modding</a> is basically the only way to do modding like
@@ -33,7 +34,7 @@ we're used to in BL2/TPS.
 <p>
 These saves were all run through in Normal mode, with Amara.  No skill
 points were allocated during the run.  The saves will have Guardian Rank
-disabled, when loaded in.  Amara will have a Crader's EM-P5 for a weapon,
+disabled.  Amara will have a Crader's EM-P5 for a weapon,
 and Transformer as shield.  Max level ammo and backpack SDUs have been
 added in as well, though the max SDU count for a few have risen over time,
 so the earlier saves are no longer necessarily maxed.  TVHM has been
@@ -74,9 +75,10 @@ I was making use of the following mods during the run:
     Possibly required on the earlier savegames to use the gear I've got
     equipped, though possibly you wouldn't actually need it.</li>
 <li>The handful of saves during Bloody Harvest will require my
-    <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Bloody%20Harvest">Bloody Harvest Enable</a> mod
-    (unless it happens to be around Halloween again, and GBX does re-activate
-    the event as they implied they would), otherwise you'll just get
+    Bloody Harvest Enable mod (<a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Bloody%20Harvest%20%282019%29">2019 version</a>,
+    <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Bloody%20Harvest%20%282020%29">2020 version</a>),
+    (unless it happens to be around Halloween again, and GBX has
+    re-activated the event), otherwise you'll just get
     kicked out to Sanctuary without any quest active.</li>
 <li>The handful of saves during Revenge of the Cartels will require my
     <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Revenge%20of%20the%20Cartels">Cartels Enable</a> mod,
