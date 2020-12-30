@@ -26,9 +26,8 @@ Other versions:
 This is a collection of savegames which step through all quests, including
 all DLCs, of Borderlands 3 (up through DLC4: Psycho Krieg and the Fantastic Fustercluck).  Given the
 nature of the saves, they're mostly just useful for someone working on
-BL3 modding, which is still in a pretty difficult state.  At the moment,
-<a href="https://github.com/apocalyptech/bl3hotfixmodding">network-injection based hotfix modding</a> is basically the only way to do modding like
-we're used to in BL2/TPS.
+BL3 modding, when testing out mods which rely on a specific point in
+the game.
 </p>
 
 <p>
@@ -74,15 +73,6 @@ I was making use of the following mods during the run:
 <li><a href="https://github.com/BLCM/bl3mods/wiki/Early%20Bloomer">Early Bloomer</a> -
     Possibly required on the earlier savegames to use the gear I've got
     equipped, though possibly you wouldn't actually need it.</li>
-<li>The handful of saves during Bloody Harvest will require my
-    Bloody Harvest Enable mod (<a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Bloody%20Harvest%20%282019%29">2019 version</a>,
-    <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Bloody%20Harvest%20%282020%29">2020 version</a>),
-    (unless it happens to be around Halloween again, and GBX has
-    re-activated the event), otherwise you'll just get
-    kicked out to Sanctuary without any quest active.</li>
-<li>The handful of saves during Revenge of the Cartels will require my
-    <a href="https://github.com/BLCM/bl3mods/wiki/Timed%20Event%20Enable%3A%20Revenge%20of%20the%20Cartels">Cartels Enable</a> mod,
-    to use them while the event isn't active.</li>
 </ul>
 
 <p>
