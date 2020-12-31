@@ -26,8 +26,8 @@ Other versions:
 This is a collection of savegames which step through all quests, including
 all DLCs, of Borderlands 3 (up through DLC4: Psycho Krieg and the Fantastic Fustercluck).  Given the
 nature of the saves, they're mostly just useful for someone working on
-BL3 modding, when testing out mods which rely on a specific point in
-the game.
+<a href="http://borderlandsmodding.com/bl3/">BL3 modding</a>, when testing out
+mods which rely on a specific point in the game.
 </p>
 
 <p>
