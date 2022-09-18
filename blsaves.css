@@ -1,0 +1,26 @@
+.savetable {
+    border: 1px solid silver;
+    border-spacing: 0px;
+}
+.savetable tr td {
+    vertical-align: top;
+    border: 1px solid silver;
+    padding: 0.5em;
+}
+.savetable tr td ul {
+    margin-top: 0px;
+}
+.filename {
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: smaller;
+}
+.row0 {
+    background: #eee;
+}
+.active_missions {
+    font-size: smaller;
+}
+.turnin_missions {
+    font-size: smaller;
+    color: #080;
+}
